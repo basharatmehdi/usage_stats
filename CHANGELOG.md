@@ -1,3 +1,7 @@
+## 2.0.6
+- Fixed namespace missing from build.gradle for android
+- Flutter 3.29 support added
+
 ## 2.0.6-beta
 - update compile sdk
 - fixed issue resources not found for upgraded flutter versions
